@@ -30,7 +30,7 @@ DB_CONFIG = {
     "port": 5432,
     "database": "solar_db",    # we'll create this database first
     "user": "postgres",
-    "password": "postgres2007"  # ← change to your PostgreSQL password
+    "password": "yourpassword"  # ← change to your PostgreSQL password
 }
 
 DATA_PATH = "data/solar_data.csv"
