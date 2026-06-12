@@ -10,7 +10,6 @@ Tables created:
 
 Run order: generate → extract → transform → load
 Author: Marvellous Isijola | EMIMO
-Project: Hagital Bootcamp
 """
 
 import os
